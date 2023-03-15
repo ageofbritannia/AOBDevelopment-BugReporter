@@ -1,4 +1,4 @@
-# AOBShardIssueReport/Suggestions/PlannedUpdates
+# AOBDevelopment/BugReporter
 
 You can also use the issues button to make recommendations or improvement / content suggestions but make sure to check if its already reported below or via issues.
 
