@@ -1,8 +1,8 @@
 # AOB UO Shard Development + Bug Reporter
 
-You can also use the issues button to make recommendations or improvement / content suggestions but make sure to check if its already reported below or via issues.
+You can also use the issues button to make recommendations or improvement / content suggestions but please make sure to check if it's already reported.
 
-Please note that this list contains both staff development info and reminders as well as player feedback / suggestions to improve current systems or add more depth to the server. Whilst we would love to instantly complete every task on here some may require more thought / time to develop and implement safetly into the server. 
+Please note that this list contains both staff development info and reminders as well as player feedback / suggestions to improve current systems and or content. Whilst we would love to instantly complete every task on here some may require more thought / time to develop and implement safetly into the server. 
 
 Many thanks Aj - AOB Admin
 
